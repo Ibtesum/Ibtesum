@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibtesum Reza Aninda
 - 👀 I’m interested in **Web Development** and **Machine Learning**
 - 🌱 I’m currently learning **React JS**. Previously I have worked on some projects using **Django** and **Django REST framework**.
-- 💞️ I’m looking to collaborate on any project which will help me improve my skills specially on React and Django.
+- 💞️ I’m looking to collaborate on any project which will help me improve my skills specially in React and Django.
 - 📫 How to reach me : 
 1. <aninda7152@gmail.com> 
 2. [Twitter](https://twitter.com/IbtesumAninda)
