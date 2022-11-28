@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **React JS**. Previously I have worked on some projects using **Django** and **Django REST framework**.
 - 💞️ I’m looking to collaborate on any project which will help me improve my skills specially in React and Django.
 - 📫 How to reach me : 
-1. [Mail me](<aninda7152@gmail.com>)
+1. Mail me at : <aninda7152@gmail.com>
 2. [Twitter](https://twitter.com/IbtesumAninda)
 3. [LinkedIn](www.linkedin.com/in/ir-aninda)
 <!---
