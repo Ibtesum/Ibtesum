@@ -11,5 +11,5 @@
 
 >You can reach me via the followings:
 >- Mail: aninda7152@gmail.com
->- [LinkdedIn](www.linkedin.com/in/ir-aninda)
+>- [LinkdedIn](https://linkedin.com/in/ir-aninda)
 >- [Twitter](https://twitter.com/IbtesumAninda)
