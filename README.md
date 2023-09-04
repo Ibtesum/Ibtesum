@@ -3,7 +3,7 @@
 
 > I am interested in ***Web Development*** and **Technical Content Writing**
 
-My recent [translation](https://ibtesum.github.io/javascript-visualized/) 
+My recent translation [JavaScript Visualized in Bangla](https://ibtesum.github.io/javascript-visualized/) 
 
 > Currently, I am diving deep into JavaScript.
 > No matter how many frontend frameworks or libraries you learn, under the hood all is JS.
