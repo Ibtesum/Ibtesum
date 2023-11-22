@@ -8,7 +8,7 @@ My recent translation [JavaScript Visualized in Bangla](https://ibtesum.github.i
 > Currently, I am diving deep into JavaScript.
 > No matter how many frontend frameworks or libraries you learn, under the hood all of them are JS.
 
-#### I am looking forward to collaborating on any opportunity that will help me improve my skills in **Front End Development**
+#### Right now, I am working as a **Jr. React Developer** at **Battery Low Interactive Ltd.**
 
 You can reach me via the following:
 - Mail: aninda7152@gmail.com
