@@ -3,7 +3,9 @@
 
 💫 About Me: <br>
 🔭 I’m currently translating the book "You Don't Know JS Yet" by Kyle Simpson<br>👯 I’m looking to collaborate on any backend or full-stack position<br>🤝 I’m looking for help with my translation work(open source)<br>🌱 I’m currently learning Core Node.js(without any framework or library, not even express.js)<br>💬 Ask me about books, movies, series, startups, and philosophy!<br>⚡ Fun fact: Currently building my own version of Express.js<br>
+
 <hr/>
+
 🧑‍💼 Professional Experiences: <br>
 🏢 Worked as a Jr. React Developer at [Battery Low Interactive Ltd.](https://batterylowinteractive.com/) for nearly a year. <br>
 ✨ Simultaneously, worked at [Learn With Sumit](https://learnwithsumit.com/), an ed-tech platform, as a support instructor and a code reviewer in a course named "Reactive Accelerator" that focuses on React.js and Next.js <br>
