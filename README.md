@@ -9,7 +9,7 @@
 🧑‍💼 Professional Experiences: <br>
 🏢 Worked as a Jr. React Developer at [Battery Low Interactive Ltd.](https://batterylowinteractive.com/) for nearly a year. <br>
 ✨ Simultaneously, worked at [Learn With Sumit](https://learnwithsumit.com/), an ed-tech platform, as a support instructor and a code reviewer in a course named "Reactive Accelerator" that focuses on React.js and Next.js <br>
-👨‍🏫 Teaching programming to a bunch of 8th graders online for almost 1 year. 
+👨‍🏫 Teaching programming to a bunch of crazy 8th graders online for almost 1 year. 
 
 
 ## 🌐 Socials:
