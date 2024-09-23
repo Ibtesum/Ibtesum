@@ -47,6 +47,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 # 📊 GitHub Stats:
+
+🚨 Warning: These stats only tell part of the story! They don’t include all my heroic PRs and commits from my office email (which is a shame, really!). So, please don’t judge my GitHub activity based on these numbers alone—I promise, there's more behind the scenes!" <br><br>
 ![](https://github-readme-stats.vercel.app/api?username=Ibtesum&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ibtesum&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtesum&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
